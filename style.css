@@ -1,0 +1,181 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header {
+  border: 1px solid #b9aeae;
+  width: 90%;
+  margin-left: 5%;
+}
+.header_content{
+overflow: hidden;
+}
+
+.logo {
+  width: 20%;
+}
+.logo img {
+  width: 50%;
+}
+nav{
+width: 30%;
+float: right;
+}
+nav ul{
+list-style: none;
+overflow: hidden;
+}
+nav ul li{
+float:left;
+margin-right: 14px;
+font-size: 20px;
+padding-bottom: 40px;
+}
+.content{
+width: 60%;
+text-align: center;
+margin-left: 20%;
+
+}
+.content h1{
+color: #008AFF;
+margin-top: 15px;
+text-transform:uppercase;
+font-size: 32px;
+}
+.content h1:first-child{
+  color: black;
+}
+.content p{
+  font-size: 18px;
+  color: rgb(15, 14, 14);
+  margin-top: 15px; 
+}
+.content img{
+  width: 80%;
+  margin-top: 15px;
+}
+.main_content{
+overflow: hidden;
+}
+.right_content{
+ width: 50%;
+ float: left;
+}
+.right_content h1{
+text-transform: lowercase !important;
+}
+.left_content{
+width: 50%;
+float: left;
+}
+}
+.left_content p{
+text-align: right;
+margin: 5px;
+}
+.left_content h1{
+  text-align: right;
+  color: red !important;
+}
+.feature {
+  width: 90%;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  overflow: hidden;
+}
+.feature_one{
+
+width: 28%;
+
+float: left;
+
+text-align: center;
+
+background-color: #FEECEC;
+
+padding: 50px 20px;
+}
+.feature_one h3{
+
+text-align: left;
+color: #082052;
+}
+.feature_one p{
+  text-align: left;
+  color: #082052;
+ 
+}
+.feature_one img{
+
+width: 100%;
+}
+.feature_two{
+
+width: 28%;
+
+float: left;
+
+margin-left: 3%;
+
+text-align: left;
+background-color: #EAF9F4;
+padding: 50px 20px;
+}
+.feature_two p{
+  text-align: left;
+  color: #082052;
+
+}
+.feature_two h3{
+  text-align: left;
+  color: #082052;
+}
+.feature_two img{
+  width: 100%;
+}
+.feature_three{
+
+width: 28%;
+
+float: right;
+background-color:#FFF8E8;
+padding: 50px 20px;
+
+}
+.feature_three p{
+text-align: left;
+color: #082052;
+}
+.feature_three h3{
+  text-align: left;
+  color: #082052;
+}
+.feature_three img{
+  width: 100%;
+}
+footer{
+
+background-color: #008AFF;
+
+text-align: center;
+
+padding: 20px;
+}
+footer p{
+
+color: #65D1FF;
+
+display: inline;
+}
+footer  h5{
+
+color: snow;
+
+letter-spacing: 3px;
+
+display: inline;
+
+margin: 0 10px;
+}
